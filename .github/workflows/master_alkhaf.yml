@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'alkhaf'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6a87623a49c549f693b2eab7d6c1d66b }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_72aceb1337d3485fb03650a083b72c5f }}
